@@ -1,0 +1,31 @@
+<section class="contacts">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center text-sm-left text-uppercase section-title">контакты:</div>
+            <p class="col-12 col-sm-6 text-center text-sm-left">
+                050-40-07-500<br>
+                Алекандр Ивченко –<br>
+                по вопросам спонсорства<br>
+                <a href="#">alek.ivchenko@gmail.com</a>
+            </p>
+            <p class="col-12 col-sm-6 text-center text-sm-left">
+                050-40-07-500<br>
+                Алекандр Ивченко –<br>
+                по вопросам спонсорства<br>
+                <a href="#">alek.ivchenko@gmail.com</a>
+            </p>
+            <p class="col-12 col-sm-6 text-center text-sm-left">
+                095-531-97-42<br>
+                Юлия Михайленко –<br>
+                по вопросам партнёрства<br>
+                <a href="#">mihailenkoj@gmail.com</a>
+            </p>
+            <p class="col-12 col-sm-6 text-center text-sm-left">
+                095-531-97-42<br>
+                Юлия Михайленко –<br>
+                по вопросам партнёрства<br>
+                <a href="#">mihailenkoj@gmail.com</a>
+            </p>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,295 @@
+<section class="partners">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center text-md-left text-uppercase section-title">партнеры:</div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/1.png" alt="">
+                    <h6>Креативный партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/2.png" alt="">
+                    <h6>Генеральный партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/3.png" alt="">
+                    <h6>Организатор</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/4.png" alt="">
+                    <h6>Дизайн партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/5.png" alt="">
+                    <h6>Диджитал партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/6.png" alt="">
+                    <h6>Генеральный полиграфический партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/7.png" alt="">
+                    <h6>Кофе партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/8.png" alt="">
+                    <h6>Партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/9.png" alt="">
+                    <h6>Партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/10.png" alt="">
+                    <h6>Партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/11.png" alt="">
+                    <h6>Партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/12.png" alt="">
+                    <h6>Партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/13.png" alt="">
+                    <h6>Партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/14.png" alt="">
+                    <h6>Партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/15.png" alt="">
+                    <h6>Партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/16.png" alt="">
+                    <h6>Генеральный медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/17.png" alt="">
+                    <h6>Генеральный медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/18.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/19.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/20.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/21.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/22.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/23.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/24.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/25.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/26.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/27.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/28.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/29.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/30.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/31.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/32.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/33.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/34.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/35.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/36.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/37.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/38.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/39.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/40.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/41.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/42.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/43.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/44.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/45.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/46.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/47.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+            <div class="col-12 justify-content-center justify-content-sm-between align-items-center col-sm-6 col-md-3 text-left partner-item">
+                <a href="#">
+                    <img src="images/48.png" alt="">
+                    <h6>Медиа партнер</h6>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>

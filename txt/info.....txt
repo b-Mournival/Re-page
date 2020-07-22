@@ -1,0 +1,132 @@
+<section class="information">
+    <div class="container">
+        <!--           people              -->
+        <div class="people">
+            <!--                            headliners              -->
+            <div class="row people-group">
+                <div class="col-12">
+                    <div class="row">
+                        <h6 class="section-title text center text-md-left text-uppercase">headliners:</h6>
+                    </div>
+                    <div class="row">
+                        <div class="col-12 col-sm-6 col-md-3 people-item">
+                            <a href="#">
+                                <img src="images/hd1.jpg" alt="">
+                                <h5>text</h5>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-3 people-item">
+                            <a href="#">
+                                <img src="images/hd2.jpg" alt="">
+                                <h5>text</h5>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--                                marketing               -->
+            <div class="row people-group">
+                <div class="col-12">
+                    <div class="row">
+                        <h6 class="section-title text center text-md-left text-uppercase">headliners:</h6>
+                    </div>
+                    <div class="row">
+                        <div class="col-12 col-sm-6 col-md-3 people-item">
+                            <a href="#">
+                                <img src="images/mk1.jpg" alt="">
+                                <h5>text</h5>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-3 people-item">
+                            <a href="#">
+                                <img src="images/mk2.jpg" alt="">
+                                <h5>text</h5>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-3 people-item">
+                            <a href="#">
+                                <img src="images/mk3.jpg" alt="">
+                                <h5>text</h5>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--                                    advert                  -->
+            <div class="row people-group">
+                <div class="col-12">
+                    <div class="row">
+                        <h6 class="section-title text center text-md-left text-uppercase">headliners:</h6>
+                    </div>
+                    <div class="row">
+                        <div class="col-12 col-sm-6 col-md-3 people-item">
+                            <a href="#">
+                                <img src="images/hd1.jpg" alt="">
+                                <h5>text</h5>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-3 people-item">
+                            <a href="#">
+                                <img src="images/hd1.jpg" alt="">
+                                <h5>text</h5>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-3 people-item">
+                            <a href="#">
+                                <img src="images/hd1.jpg" alt="">
+                                <h5>text</h5>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-3 people-item">
+                            <a href="#">
+                                <img src="images/hd1.jpg" alt="">
+                                <h5>text</h5>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--                                    digital                     -->
+            <div class="row people-group">
+                <div class="col-12">
+                    <div class="row">
+                        <h6 class="section-title text center text-md-left text-uppercase">headliners:</h6>
+                    </div>
+                    <div class="row">
+                        <div class="col-12 col-sm-6 col-md-3 people-item">
+                            <a href="#">
+                                <img src="images/dg1.jpg" alt="">
+                                <h5>text</h5>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-3 people-item">
+                            <a href="#">
+                                <img src="images/dg2.jpg" alt="">
+                                <h5>text</h5>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-3 people-item">
+                            <a href="#">
+                                <img src="images/dg3.jpg" alt="">
+                                <h5>text</h5>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-3 people-item">
+                            <a href="#">
+                                <img src="images/dg4.jpg" alt="">
+                                <h5>text</h5>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!--                        program             -->
+    <div class="program">
+
+    </div>
+    </div>
+</section>
